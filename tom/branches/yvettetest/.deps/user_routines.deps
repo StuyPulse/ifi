@@ -1,0 +1,53 @@
+user_routines.o: user_routines.c /opt/mcc18/h/stdio.h \
+  /opt/mcc18/h/stdarg.h /opt/mcc18/h/stddef.h /opt/mcc18/h/math.h \
+  ifi_aliases.h /opt/mcc18/h/adc.h ifi_default.h /opt/mcc18/h/p18cxxx.h \
+  /opt/mcc18/h/p18f8520.h ifi_utilities.h user_routines.h camera.h \
+  serial_ports.h tracking.h gyro.h interrupts.h velocity.h controller.h \
+  common_def.h trajectory.h traj_null.h traj_straight.h \
+  traj_turn_radius.h
+
+/opt/mcc18/h/stdio.h:
+
+/opt/mcc18/h/stdarg.h:
+
+/opt/mcc18/h/stddef.h:
+
+/opt/mcc18/h/math.h:
+
+ifi_aliases.h:
+
+/opt/mcc18/h/adc.h:
+
+ifi_default.h:
+
+/opt/mcc18/h/p18cxxx.h:
+
+/opt/mcc18/h/p18f8520.h:
+
+ifi_utilities.h:
+
+user_routines.h:
+
+camera.h:
+
+serial_ports.h:
+
+tracking.h:
+
+gyro.h:
+
+interrupts.h:
+
+velocity.h:
+
+controller.h:
+
+common_def.h:
+
+trajectory.h:
+
+traj_null.h:
+
+traj_straight.h:
+
+traj_turn_radius.h:

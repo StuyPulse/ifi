@@ -1,0 +1,31 @@
+traj_straight_nogyro.o: traj_straight_nogyro.c /opt/mcc18/h/string.h \
+  /opt/mcc18/h/stddef.h /opt/mcc18/h/math.h /opt/mcc18/h/stdio.h \
+  /opt/mcc18/h/stdarg.h controller.h trajectory.h user_routines.h \
+  traj_null.h traj_offensive.h traj_straight_nogyro.h traj_turn.h \
+  common_def.h
+
+/opt/mcc18/h/string.h:
+
+/opt/mcc18/h/stddef.h:
+
+/opt/mcc18/h/math.h:
+
+/opt/mcc18/h/stdio.h:
+
+/opt/mcc18/h/stdarg.h:
+
+controller.h:
+
+trajectory.h:
+
+user_routines.h:
+
+traj_null.h:
+
+traj_offensive.h:
+
+traj_straight_nogyro.h:
+
+traj_turn.h:
+
+common_def.h:

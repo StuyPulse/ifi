@@ -1,0 +1,6 @@
+#ifndef _TRAJ_STRAIGHTSHOOT_H
+#define _TRAJ_STRAIGHTSHOOT_H
+
+void init_straightshoot(void);
+
+#endif

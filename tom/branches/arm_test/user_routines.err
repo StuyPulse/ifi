@@ -1,0 +1,19 @@
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 48 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 50 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 70 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 72 : comparison of a signed integer to an unsigned integer detected
+Warning[2058] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 170 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 261 : call of function without prototype
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 359 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 362 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 362 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 367 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 367 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 372 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 372 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 385 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 385 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 390 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 390 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 395 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\arm_test\user_routines.c 395 : comparison of a signed integer to an unsigned integer detected

@@ -1,0 +1,5 @@
+ifi_startup.o: ifi_startup.c ifi_default.h ifi_picdefs.h
+
+ifi_default.h:
+
+ifi_picdefs.h:

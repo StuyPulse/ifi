@@ -1,0 +1,24 @@
+traj_straight.o: traj_straight.c /opt/mcc18/h/string.h \
+  /opt/mcc18/h/stddef.h /opt/mcc18/h/math.h /opt/mcc18/h/stdio.h \
+  /opt/mcc18/h/stdarg.h controller.h trajectory.h user_routines.h \
+  traj_straight.h common_def.h
+
+/opt/mcc18/h/string.h:
+
+/opt/mcc18/h/stddef.h:
+
+/opt/mcc18/h/math.h:
+
+/opt/mcc18/h/stdio.h:
+
+/opt/mcc18/h/stdarg.h:
+
+controller.h:
+
+trajectory.h:
+
+user_routines.h:
+
+traj_straight.h:
+
+common_def.h:

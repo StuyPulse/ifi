@@ -1,0 +1,20 @@
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 160 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 180 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 182 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 184 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 187 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 193 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 201 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 208 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 242 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 247 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 425 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 496 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 497 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 623 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 635 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 639 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 658 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 676 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 681 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 714 : type qualifier mismatch in assignment

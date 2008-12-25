@@ -1,0 +1,23 @@
+arm_control.o: arm_control.c ifi_aliases.h /opt/mcc18/h/adc.h \
+  ifi_default.h /opt/mcc18/h/p18cxxx.h /opt/mcc18/h/p18f8520.h \
+  ifi_utilities.h eeprom.h user_routines.h arm_control.h controller.h
+
+ifi_aliases.h:
+
+/opt/mcc18/h/adc.h:
+
+ifi_default.h:
+
+/opt/mcc18/h/p18cxxx.h:
+
+/opt/mcc18/h/p18f8520.h:
+
+ifi_utilities.h:
+
+eeprom.h:
+
+user_routines.h:
+
+arm_control.h:
+
+controller.h:

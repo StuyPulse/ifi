@@ -1,0 +1,971 @@
+1: 506	 current l1: 506	 current r2: 507	 current l2: 5
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 cur
+rent l2: 4
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 2
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 
+908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 2
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 
+507	 current l2: 2
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 2
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+cur
+rent r1: 506	 current l1: 506	 current r2: 508	 current l2: 2
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gy
+ro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 cur
+rent l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 cur
+rent r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2:
+ 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 
+246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 
+506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 
+908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 cur
+rent l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l:
+ 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rat
+e: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 
+506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 585	 current l1: 666	 current r2: 506	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 
+507	 current r2: 434	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 556	 current r2: 420	 current l2: 5
+Gyro Rate: 0, Gyro Angle: 0
+arm pot:
+ 908
+rpm r: 0	 rpm l: 246
+current r1: 582	 current l1: 551	 current r2: 457	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 507	 current r2: 
+472	 current l2: 6
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 909
+rpm r: 0	 rpm l: 246
+current r1: 576	 current l1: 568	 current r2: 492	 current l2: 8
+Gyro Rate: 0, Gyro Angle: 0
+arm pot:
+ 908
+rpm r: 0	 rpm l: 246
+current r1: 526	 current l1: 506	 current r2: 481	 current l2: 7
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 543	 current l1: 553	 current r2: 
+492	 current l2: 6
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 533	 current l1: 531	 current r2: 493	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0
+	 rpm l: 246
+current r1: 508	 current l1: 532	 current r2: 492	 current l2: 2
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 526	 current l1: 531	 current r2: 491	 current l2: 1
+Gyro Rate: 0, Gy
+ro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 519	 current l1: 510	 current r2: 489	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 
+246
+current r1: 523	 current l1: 527	 current r2: 498	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 522	 current l1: 521	 current r2: 498	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 517	 current l1: 524	 current r2: 496	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 517	 current l1: 521	 current r2: 493	 cur
+rent l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 513	 current l1: 515	 current r2: 496	 current l2: 1
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0
+	 rpm l: 246
+current r1: 515	 current l1: 521	 current r2: 496	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 516	 current l1: 516	 current r2: 494	 current l2: 0
+Gyro Rate: 0, Gy
+ro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 514	 current l1: 521	 current r2: 491	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 516	 cur
+rent l1: 516	 current r2: 491	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 516	 current l1: 521	 current r2: 492	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 517	 current l1: 518	 current r2: 499	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 519	 current l1: 522	 current r2:
+ 498	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 514	 current l1: 516	 current r2: 496	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 
+246
+current r1: 513	 current l1: 519	 current r2: 497	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 515	 current l1: 516	 current r2: 499	 current l2: 0
+Gyro Rat
+e: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 517	 current l1: 520	 current r2: 494	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 519	 current l1: 
+518	 current r2: 495	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 515	 current l1: 516	 current r2: 493	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0
+	 rpm l: 246
+current r1: 513	 current l1: 516	 current r2: 492	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 513	 current l1: 521	 current r2: 498	 current l2: 0
+Gyro Rate: 0, Gy
+ro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 515	 current l1: 516	 current r2: 496	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 516	 cur
+rent l1: 520	 current r2: 494	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 515	 current l1: 515	 current r2: 493	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+
+rpm r: 0	 rpm l: 246
+current r1: 516	 current l1: 521	 current r2: 494	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 511	 current l1: 507	 current r2: 491	 cur
+rent l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 518	 current l1: 519	 current r2: 492	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 
+246
+current r1: 507	 current l1: 507	 current r2: 490	 current l2: 0
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 200	 current l1: 157	 current r2: 816	 current l2: 0
+Gyro Rat
+e: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 501	 current l1: 464	 current r2: 507	 current l2: 2
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 
+507	 current l1: 506	 current r2: 506	 current l2: 9
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 530	 current l1: 523	 current r2: 387	 current l2: 2
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 528	 current l1: 576	 current r2: 506	 current l2: 8
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 
+508	 current r2: 505	 current l2: 10
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 484	 current l1: 465	 current r2: 773	 current l2: 9
+Gyro Rate: 0, Gyro Angle
+: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 7
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1:
+ 506	 current r2: 506	 current l2: 6
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 494	 current l2: 5
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0
+	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 506	 current l2: 5
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 506	 current l2:
+ 5
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 625	 current l2: 4
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0
+	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gy
+ro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 505	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 cur
+rent l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 cur
+rent l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 cur
+rent l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 
+246
+current r1: 506	 current l1: 505	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 cur
+rent r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 907
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rat
+e: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 
+506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot:
+ 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 
+507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+cur
+rent r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gy
+ro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 907
+rpm r: 0	 rpm l: 246
+current r1: 506	 cur
+rent l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 
+507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0
+	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 
+507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 
+0, Gyro Angle: 0
+arm pot: 907
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 cur
+rent l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 cur
+rent r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 
+246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rat
+e: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 cur
+rent l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0
+	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle
+: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1:
+ 507	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+cur
+rent r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gy
+ro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+cur
+rent r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gy
+ro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2:
+ 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 
+246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rat
+e: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 
+506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 
+908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 508	 cur
+rent l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 
+246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rat
+e: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 
+506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rat
+e: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 
+506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle
+: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 
+506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 
+908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1:
+ 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2:
+ 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+cur
+rent r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 cur
+rent r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 
+506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 
+507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l:
+ 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot:
+ 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 
+507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+cur
+rent r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 507	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 cur
+rent r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 cur
+rent l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 24
+6
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 907
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rat
+e: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 
+246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 cur
+rent r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 
+908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 
+506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 
+908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 cur
+rent l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 506	 current l1: 506	 cur
+rent r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+rpm r: 0	 rpm l: 246
+current r1: 507	 current l1: 506	 current r2: 507	 current l2: 3
+Gyro Rate: 0, Gyro Angle: 0
+arm pot: 908
+

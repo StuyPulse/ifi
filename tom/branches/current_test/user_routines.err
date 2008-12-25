@@ -1,0 +1,19 @@
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 137 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 139 : call of function without prototype
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 160 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 180 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 182 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 184 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 187 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 193 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 201 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 208 : comparison of a signed integer to an unsigned integer detected
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 212 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 218 : call of function without prototype
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 239 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 261 : type qualifier mismatch in assignment
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 287 : call of function without prototype
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 550 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 587 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 675 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 708 : type qualifier mismatch in assignment

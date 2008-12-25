@@ -1,0 +1,8 @@
+Message[3002] Z:\home\prog\code\robo2007\branches\encodertest\user_routines.c 43 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\encodertest\user_routines.c 45 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\encodertest\user_routines.c 65 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\encodertest\user_routines.c 67 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\encodertest\user_routines.c 288 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\encodertest\user_routines.c 293 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\encodertest\user_routines.c 304 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\encodertest\user_routines.c 309 : comparison of a signed integer to an unsigned integer detected

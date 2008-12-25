@@ -1,0 +1,5 @@
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\velocity.c 28 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\velocity.c 44 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\velocity.c 47 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\velocity.c 53 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\velocity.c 102 : comparison of a signed integer to an unsigned integer detected

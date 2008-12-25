@@ -1,0 +1,7 @@
+OurCamera.o: OurCamera.c camera.h tracking.h OurCamera.h
+
+camera.h:
+
+tracking.h:
+
+OurCamera.h:

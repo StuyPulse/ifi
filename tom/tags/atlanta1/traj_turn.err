@@ -1,0 +1,8 @@
+Warning[2066] Z:\home\prog\code\robo2007\trunk\traj_turn.c 54 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\traj_turn.c 58 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\traj_turn.c 58 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\traj_turn.c 63 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\traj_turn.c 63 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\traj_turn.c 68 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\traj_turn.c 73 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\traj_turn.c 87 : comparison of a signed integer to an unsigned integer detected

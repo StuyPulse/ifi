@@ -1,0 +1,74 @@
+user_routines.c:      ro->motor_L = controller(&left,LEFT_IDEAL_CURRENT,rs->left_front_I+rs->left_back_I);
+user_routines.c:      ro->motor_R = controller(&left,RIGHT_IDEAL_CURRENT,rs->right_front_I+rs->right_back_I);
+user_routines.c:      ro->motor_L = LEFT_Y;
+user_routines.c:      ro->motor_R = RIGHT_Y;
+user_routines.c:    ro->motor_L = LEFT_Y;
+user_routines.c:    ro->motor_R = RIGHT_Y;
+user_routines.c:	tmp = ro->motor_L;
+user_routines.c:	ro->motor_L = REVERSE_PWM(ro->motor_R);
+user_routines.c:	ro->motor_R = REVERSE_PWM(tmp);
+user_routines.c:	ro->shift_servo = 0;
+user_routines.c:	ro->shift_servo=255;
+user_routines.c:       ro->arm = p3_y;
+user_routines.c:       ro->arm = 127;
+user_routines.c:    /*if(rs->arm_pos > ARM_TOP && ro->arm > 127)
+user_routines.c:      ro->arm = 127;
+user_routines.c:    if(rs->arm_pos < ARM_BOTTOM && ro->arm < 127)
+user_routines.c:      ro->arm = 127;
+user_routines.c:      ro->ramp_servo_l = RAMP_SERVO_DEPLOYED;
+user_routines.c:      ro->ramp_servo_l = RAMP_SERVO_UNDEPLOYED;
+user_routines.c:      ro->ramp_servo_r = RAMP_SERVO_DEPLOYED;
+user_routines.c:      ro->ramp_servo_r = RAMP_SERVO_UNDEPLOYED;
+user_routines.c:      ro->ramp_motor_l = 255;
+user_routines.c:      ro->ramp_motor_r = 255;
+user_routines.c:    ro->lance_servo = (p2_sw_top || p2_sw_aux1 || p2_sw_aux2);
+user_routines.c:      ro->arm = ARM_JOY;
+user_routines.c:  //  ro->last_out_R = pd_vel_control(RIGHT_SIDE,ro->last_out_R,rt->vel_R, rs->vel_R);
+user_routines.c:  //ro->last_out_L = pd_vel_control(LEFT_SIDE ,ro->last_out_L,rt->vel_L, rs->vel_L);
+user_routines.c:  ro->last_out_L = 127 + controller(&left,rs->vel_L,rt->vel_L);
+user_routines.c:  ro->last_out_R = 127 + controller(&right,rs->vel_L,rt->vel_R);
+user_routines.c:  //printf("control output L=%d R=%d\n", (int)ro->last_out_L, (int)ro->last_out_R) ;
+user_routines.c:  if(ro->last_out_R >= 254)
+user_routines.c:    ro->last_out_R = 254;
+user_routines.c:  else if (ro->last_out_R <= 127)
+user_routines.c:    ro->last_out_R = 127;
+user_routines.c:  if(ro->last_out_L >= 254)
+user_routines.c:    ro->last_out_L = 254;
+user_routines.c:  else if (ro->last_out_L <= 127)
+user_routines.c:    ro->last_out_L = 127;
+user_routines.c:    ro->last_out_R = 127;
+user_routines.c:    ro->last_out_L = 127;
+user_routines.c:  ro->motor_R = (unsigned char)ro->last_out_R;
+user_routines.c:  ro->motor_L = (unsigned char)ro->last_out_L;
+user_routines.c:      ro->motor_L = 255-ro->motor_L;
+user_routines.c:      ro->motor_R = 255-ro->motor_R;
+user_routines.c:  //printf("control output motor L=%d R=%d\n", (int)ro->motor_L, (int)ro->motor_R) ;
+user_routines.c:  //  printf("left %d right %d", (int)ro->motor_L, (int)ro->motor_R);
+user_routines.c:  LEFT_DRIVE  = ro->motor_L;
+user_routines.c:  RIGHT_DRIVE = 255-ro->motor_R; // flip right motor
+user_routines.c:  LEFT1_DRIVE = LEFT2_DRIVE = ro->motor_L;
+user_routines.c:  RIGHT1_DRIVE = RIGHT2_DRIVE = 255-ro->motor_R;
+user_routines.c:  ARM_MOTOR = ro->arm;
+user_routines.c:  L_RAMP_SERVO = ro->ramp_servo_l;
+user_routines.c:  R_RAMP_SERVO = ro->ramp_servo_r;
+user_routines.c:  R_RAMP_MOTOR = ro->ramp_motor_l;
+user_routines.c:  L_RAMP_MOTOR = ro->ramp_motor_r;
+user_routines.c:  SHIFT=ro->shift_servo;
+user_routines.c:  LANCE_SERVO = ro->lance_servo;
+user_routines.c:  ro->ramp_motor_l = 127;
+user_routines.c:  ro->ramp_motor_r = 127;
+user_routines.c:  ro->ramp_servo_l = RAMP_SERVO_UNDEPLOYED;
+user_routines.c:  ro->ramp_servo_r = RAMP_SERVO_UNDEPLOYED;
+user_routines.c:  ro->motor_L = 127;
+user_routines.c:  ro->motor_R = 127;
+user_routines.c:  ro->last_out_L = 127;
+user_routines.c:  ro->last_out_R = 127;
+user_routines.c:  ro->arm = 127;
+user_routines.c:  ro->shift_servo = 0;
+user_routines.c:      ro->motor_L = 127 - turnspeed;
+user_routines.c:      ro->motor_R = 127 + turnspeed;
+user_routines.c:      ro->motor_L = 127;
+user_routines.c:      ro->motor_R = 127;
+user_routines.c:	  ro->arm = 127;
+user_routines.c:  ro->arm = 127 + controller(&ps,rs->arm_pos,rt->arm_pos);
+user_routines.c:  printf("ro->arm: %d\r\n",ro->arm);

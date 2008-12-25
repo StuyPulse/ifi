@@ -1,0 +1,16 @@
+Warning[2058] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 136 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 138 : call of function without prototype
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 159 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 179 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 181 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 183 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 186 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 192 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 200 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 207 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 214 : type qualifier mismatch in assignment
+Warning[2058] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 228 : call of function without prototype
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 590 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 611 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 699 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvettetest\user_routines.c 732 : type qualifier mismatch in assignment

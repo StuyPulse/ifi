@@ -1,0 +1,26 @@
+user_routines_fast.o: user_routines_fast.c ifi_aliases.h \
+  /opt/mcc18/h/adc.h ifi_default.h /opt/mcc18/h/p18cxxx.h \
+  /opt/mcc18/h/p18f8520.h ifi_utilities.h user_routines.h serial_ports.h \
+  interrupts.h adc.h gyro.h
+
+ifi_aliases.h:
+
+/opt/mcc18/h/adc.h:
+
+ifi_default.h:
+
+/opt/mcc18/h/p18cxxx.h:
+
+/opt/mcc18/h/p18f8520.h:
+
+ifi_utilities.h:
+
+user_routines.h:
+
+serial_ports.h:
+
+interrupts.h:
+
+adc.h:
+
+gyro.h:

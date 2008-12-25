@@ -1,0 +1,430 @@
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 0	 rt->vel_R: 0vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 1	 rt->vel_R: 1vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 3	 rt->vel_R: 3vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 4	 rt->vel_R: 4vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->ve
+l_L: 6	 rt->vel_R: 6vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 7	 rt->vel_R: 7vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 9	 rt->vel_R: 9vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 10	 rt->vel_R: 10vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 12	 rt->vel_R: 12vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->ve
+l_L: 14	 rt->vel_R: 14vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 15	 rt->vel_R: 15vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 17	 rt->vel_R: 17vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 18	 rt->vel_R: 18vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 20	 rt->vel_R: 20vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 
+21	 rt->vel_R: 21vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 23	 rt->vel_R: 23vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 24	 rt->vel_R: 24vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 26	 rt->vel_R: 26vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 28	 rt->vel_R: 28vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 29	 rt->
+vel_R: 29vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->
+vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_
+R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 
+30vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_
+R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs
+->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L:
+ 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0
+rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L:
+ 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0rs->vel_R: 0, rs->vel_L: 0rt->vel_L: 30	 rt->vel_R: 30vel change: 0
+rs->vel_R: 2, rs->vel_L: 2rt->vel_L: 30	 rt->vel_R: 30vel change: 2rs->vel_R: 2, rs->vel_L: 2rt->vel_L: 30	 rt->vel_R: 30vel change: 2
+rs->vel_R: 2, rs->vel_L: 2rt->vel_L: 30	 rt->vel_R: 30vel change: 2rs->vel_R: 2, rs->vel_L:
+ 2rt->vel_L: 30	 rt->vel_R: 30vel change: 2rs->vel_R: 2, rs->vel_L: 2rt->vel_L: 30	 rt->vel_R: 30vel change: 2
+rs->vel_R: 2, rs->vel_L: 2rt->vel_L: 30	 rt->vel_R: 30vel change: 2rs->vel_R: 4, rs->vel_L: 2rt->vel_L: 30	 rt->vel_R: 30vel change: 1
+rs->vel_R: 4, rs->vel_L: 2rt->vel_L: 30	 rt->vel_R: 30vel change: 1rs->vel_R: 4, rs->vel_L: 2rt->v
+el_L: 30	 rt->vel_R: 30vel change: 1rs->vel_R: 4, rs->vel_L: 2rt->vel_L: 30	 rt->vel_R: 30vel change: 1
+rs->vel_R: 4, rs->vel_L: 2rt->vel_L: 30	 rt->vel_R: 30vel change: 1rs->vel_R: 6, rs->vel_L: 2rt->vel_L: 30	 rt->vel_R: 30vel change: 1
+rs->vel_R: 6, rs->vel_L: 2rt->vel_L: 30	 rt->vel_R: 30vel change: 1rs->vel_R: 6, rs->vel_L: 2rt->vel_L: 
+30	 rt->vel_R: 30vel change: 1rs->vel_R: 6, rs->vel_L: 2rt->vel_L: 30	 rt->vel_R: 30vel change: 1
+rs->vel_R: 8, rs->vel_L: 4rt->vel_L: 30	 rt->vel_R: 30vel change: 3rs->vel_R: 8, rs->vel_L: 4rt->vel_L: 30	 rt->vel_R: 30vel change: 3
+rs->vel_R: 8, rs->vel_L: 4rt->vel_L: 30	 rt->vel_R: 30vel change: 3rs->vel_R: 8, rs->vel_L: 4rt->vel_L: 3
+0	 rt->vel_R: 30vel change: 3rs->vel_R: 11, rs->vel_L: 4rt->vel_L: 30	 rt->vel_R: 30vel change: 3
+rs->vel_R: 11, rs->vel_L: 4rt->vel_L: 30	 rt->vel_R: 30vel change: 3rs->vel_R: 11, rs->vel_L: 6rt->vel_L: 30	 rt->vel_R: 30vel change: 5
+rs->vel_R: 13, rs->vel_L: 6rt->vel_L: 30	 rt->vel_R: 30vel change: 5rs->vel_R: 13, rs->vel_L: 6rt->vel_L: 30	 rt->
+vel_R: 30vel change: 5rs->vel_R: 13, rs->vel_L: 6rt->vel_L: 30	 rt->vel_R: 30vel change: 5
+rs->vel_R: 15, rs->vel_L: 6rt->vel_L: 30	 rt->vel_R: 30vel change: 5rs->vel_R: 15, rs->vel_L: 6rt->vel_L: 30	 rt->vel_R: 30vel change: 5
+rs->vel_R: 15, rs->vel_L: 8rt->vel_L: 30	 rt->vel_R: 30vel change: 7rs->vel_R: 17, rs->vel_L: 8rt->vel_L: 30	 rt->
+vel_R: 30vel change: 7rs->vel_R: 17, rs->vel_L: 8rt->vel_L: 30	 rt->vel_R: 30vel change: 7rs->vel_
+R: 17, rs->vel_L: 11rt->vel_L: 30	 rt->vel_R: 30vel change: 9rs->vel_R: 20, rs->vel_L: 11rt->vel_L: 30	 rt->vel_R: 30vel change: 9
+rs->vel_R: 20, rs->vel_L: 11rt->vel_L: 30	 rt->vel_R: 30vel change: 9rs->vel_R: 20, rs->vel_L: 11rt->vel_L: 30	 rt->vel_R: 3
+0vel change: 9rs->vel_R: 22, rs->vel_L: 13rt->vel_L: 30	 rt->vel_R: 30vel change: 11rs->vel_R: 
+22, rs->vel_L: 13rt->vel_L: 30	 rt->vel_R: 30vel change: 11rs->vel_R: 22, rs->vel_L: 13rt->vel_L: 30	 rt->vel_R: 30vel change: 11
+rs->vel_R: 24, rs->vel_L: 15rt->vel_L: 30	 rt->vel_R: 30vel change: 13rs->vel_R: 24, rs->vel_L: 15rt->vel_L: 30	 rt->vel_R: 
+30vel change: 13rs->vel_R: 24, rs->vel_L: 15rt->vel_L: 30	 rt->vel_R: 30vel change: 13rs->vel_R: 26, rs->
+vel_L: 17rt->vel_L: 30	 rt->vel_R: 30vel change: 15rs->vel_R: 26, rs->vel_L: 17rt->vel_L: 30	 rt->vel_R: 30vel change: 15
+rs->vel_R: 26, rs->vel_L: 17rt->vel_L: 30	 rt->vel_R: 30vel change: 15rs->vel_R: 29, rs->vel_L: 17rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 14rs->vel_R: 29, rs->vel_L: 20rt->vel_L: 30	 rt->vel_R: 30vel change: 17rs->vel_R: 31, rs->
+vel_L: 20rt->vel_L: 30	 rt->vel_R: 30vel change: 16rs->vel_R: 31, rs->vel_L: 20rt->vel_L: 30	 rt->vel_R: 30vel change: 16
+rs->vel_R: 31, rs->vel_L: 22rt->vel_L: 30	 rt->vel_R: 30vel change: 19rs->vel_R: 33, rs->vel_L: 22rt->vel_L: 30	 rt->vel_R: 30vel change: 
+18rs->vel_R: 33, rs->vel_L: 22rt->vel_L: 30	 rt->vel_R: 30vel change: 18rs->vel_R: 33, rs->vel_L: 2
+4rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 35, rs->vel_L: 24rt->vel_L: 30	 rt->vel_R: 30vel change: 20
+rs->vel_R: 35, rs->vel_L: 24rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 37, rs->vel_L: 24rt->vel_L: 30	 rt->vel_R: 30vel change: 20
+rs->vel_R: 37, rs->vel_L: 26rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 40, rs->vel_L: 26rt->vel_L: 30	 rt->vel_R: 30vel change: 
+22rs->vel_R: 40, rs->vel_L: 26rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 40, rs->vel_L: 
+26rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 42, rs->vel_L: 29rt->vel_L: 30	 rt->vel_R: 30vel change: 24
+rs->vel_R: 42, rs->vel_L: 29rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 44, rs->vel_L: 29rt->vel_L: 30	 rt->vel_R: 30vel change: 24
+rs->vel_R: 44, rs->vel_L: 31rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 44, rs->vel_L: 31rt->v
+el_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 46, rs->vel_L: 31rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 46, rs->vel_L: 31rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 49, rs->vel_L: 31rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 49, rs->vel_L: 33rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 51, rs->vel_L: 33rt->vel_L: 30	 rt->vel_R: 30vel change: 28
+rs->vel_R: 51, rs->vel_L: 33rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 51, rs->vel_L: 33rt->v
+el_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 53, rs->vel_L: 33rt->vel_L: 30	 rt->vel_R: 30vel change: 28
+rs->vel_R: 53, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 30rs->vel_R: 55, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 30
+rs->vel_R: 55, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 30rs->vel_R: 58, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 29rs->vel_R: 58, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 29rs->vel_R: 60, rs->vel_L: 35rt->vel_L: 
+30	 rt->vel_R: 30vel change: 29rs->vel_R: 60, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 29rs->vel_R: 62, rs->
+vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 29rs->vel_R: 62, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 29
+rs->vel_R: 62, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 29rs->vel_R: 64, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 29
+rs->vel_R: 67, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 29rs->vel_R: 67, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 29
+rs->vel_R: 69, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 69, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 28rs->vel_R: 71, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 71, rs->vel_L: 35rt->vel_L: 
+30	 rt->vel_R: 30vel change: 28rs->vel_R: 73, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 73, rs->
+vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 75, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 
+75, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 78, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 78, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 80, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 80, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 82, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 84, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 84, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 
+30vel change: 27rs->vel_R: 87, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 87, rs->vel_L: 35rt->v
+el_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 89, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 89, rs->vel_L: 35rt->v
+el_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 91, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 
+91, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 93, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 93, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 96, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 96, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 98, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 
+30vel change: 25rs->vel_R: 98, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 100, rs->vel_L: 35rt->v
+el_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 100, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 
+102, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 104, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 104, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 107, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 107, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 109, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 
+30vel change: 24rs->vel_R: 109, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 111, rs->vel_L: 35rt->v
+el_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 111, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 
+113, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 116, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 
+116, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 118, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 118, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 120, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 120, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 122, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 122, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 125, rs->vel_L: 35rt->vel_L: 30	 rt->
+vel_R: 30vel change: 23rs->vel_R: 125, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 127, rs->vel_L: 
+35rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 129, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 
+129, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 131, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 131, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 134, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 134, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 136, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 138, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 138, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 21
+rs->vel_R: 140, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 140, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 21
+rs->vel_R: 142, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 142, rs->vel_L: 35rt->vel_L: 30	 rt->
+vel_R: 30vel change: 21rs->vel_R: 145, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 147, rs->vel_L: 
+35rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 147, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 20
+rs->vel_R: 149, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 149, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 20
+rs->vel_R: 151, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 151, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 
+20rs->vel_R: 154, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 156, rs->vel_L: 35rt->vel_L: 30	 rt->
+vel_R: 30vel change: 20rs->vel_R: 156, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 158, rs->vel_L: 
+35rt->vel_L: 30	 rt->vel_R: 30vel change: 19rs->vel_R: 158, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 19
+rs->vel_R: 160, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 19rs->vel_R: 160, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 19
+rs->vel_R: 163, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 19rs->vel_R: 165, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 19
+rs->vel_R: 165, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 19rs->vel_R: 167, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 18rs->vel_R: 167, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 18rs->vel_R: 169, rs->vel_L: 
+35rt->vel_L: 30	 rt->vel_R: 30vel change: 18rs->vel_R: 169, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 18
+rs->vel_R: 172, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 18rs->vel_R: 174, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 18
+rs->vel_R: 174, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 18rs->vel_R: 176, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 18
+rs->vel_R: 176, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 18rs->vel_R: 178, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 17rs->vel_R: 178, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 17rs->vel_R: 180, rs->vel_L: 35rt->vel_L: 30	 rt->
+vel_R: 30vel change: 17rs->vel_R: 183, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 17rs->vel_R: 183, rs->vel_L: 
+35rt->vel_L: 30	 rt->vel_R: 30vel change: 17rs->vel_R: 185, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 17
+rs->vel_R: 185, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 17rs->vel_R: 187, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 16
+rs->vel_R: 187, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 16rs->vel_R: 189, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 16
+rs->vel_R: 192, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 16rs->vel_R: 192, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 16rs->vel_R: 194, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 16rs->vel_R: 194, rs->vel_L: 35rt->vel_L: 
+30	 rt->vel_R: 30vel change: 16rs->vel_R: 196, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 16
+rs->vel_R: 196, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 16rs->vel_R: 198, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 15
+rs->vel_R: 198, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 15rs->vel_R: 201, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 15
+rs->vel_R: 201, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 15rs->vel_R: 203, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 15rs->vel_R: 205, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 15rs->vel_R: 205, rs->vel_L: 35rt->vel_L: 
+30	 rt->vel_R: 30vel change: 15rs->vel_R: 207, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 14rs->vel_
+R: 207, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 14rs->vel_R: 209, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 14
+rs->vel_R: 209, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 14rs->vel_R: 212, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 
+14rs->vel_R: 214, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 14rs->vel_R: 214, rs->vel_L: 35rt->vel_L: 30	 rt->
+vel_R: 30vel change: 14rs->vel_R: 216, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 14rs->vel_R: 216, rs->vel_L: 
+35rt->vel_L: 30	 rt->vel_R: 30vel change: 14rs->vel_R: 218, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 13
+rs->vel_R: 218, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 13rs->vel_R: 221, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 13
+rs->vel_R: 223, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 13rs->vel_R: 223, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 13
+rs->vel_R: 225, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 13rs->vel_R: 225, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 13
+rs->vel_R: 227, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 12rs->vel_R: 227, rs->vel_L: 35rt->vel_L: 30	 rt->
+vel_R: 30vel change: 12rs->vel_R: 230, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 12rs->vel_
+R: 230, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 12rs->vel_R: 232, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 12
+rs->vel_R: 232, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 12rs->vel_R: 234, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 12
+rs->vel_R: 236, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 12rs->vel_R: 236, rs->vel_L: 35rt->vel_L: 30	 rt->vel_R: 30vel change: 12
+rs->vel_R: 239, rs->vel_L: 37rt->vel_L: 30	 rt->vel_R: 30vel change: 14rs->vel_R: 239, rs->vel_L: 37rt->vel_L: 30	 rt->
+vel_R: 30vel change: 14rs->vel_R: 241, rs->vel_L: 37rt->vel_L: 30	 rt->vel_R: 30vel change: 13rs->vel_R: 241, rs->vel_L: 
+37rt->vel_L: 30	 rt->vel_R: 30vel change: 13rs->vel_R: 243, rs->vel_L: 37rt->vel_L: 30	 rt->vel_R: 30vel change: 13
+rs->vel_R: 243, rs->vel_L: 37rt->vel_L: 30	 rt->vel_R: 30vel change: 13rs->vel_R: 245, rs->vel_L: 37rt->vel_L: 30	 rt->vel_R: 30vel change: 
+13rs->vel_R: 245, rs->vel_L: 37rt->vel_L: 30	 rt->vel_R: 30vel change: 13rs->vel_R: 247, rs->vel_L: 37rt->vel_L: 30	 rt->
+vel_R: 30vel change: 13rs->vel_R: 247, rs->vel_L: 37rt->vel_L: 30	 rt->vel_R: 30vel change: 13rs->vel_
+R: 250, rs->vel_L: 37rt->vel_L: 30	 rt->vel_R: 30vel change: 12rs->vel_R: 252, rs->vel_L: 37rt->vel_L: 30	 rt->vel_R: 30vel change: 12
+rs->vel_R: 252, rs->vel_L: 37rt->vel_L: 30	 rt->vel_R: 30vel change: 12rs->vel_R: 254, rs->vel_L: 37rt->vel_L: 30	 rt->vel_R: 30vel change: 12
+rs->vel_R: 254, rs->vel_L: 40rt->vel_L: 30	 rt->vel_R: 30vel change: 14rs->vel_R: 256, rs->vel_L: 40rt->vel_L: 30	 rt->
+vel_R: 30vel change: 14rs->vel_R: 256, rs->vel_L: 40rt->vel_L: 30	 rt->vel_R: 30vel change: 14rs->vel_R: 
+259, rs->vel_L: 40rt->vel_L: 30	 rt->vel_R: 30vel change: 14rs->vel_R: 259, rs->vel_L: 40rt->vel_L: 30	 rt->vel_R: 30vel change: 14rs->vel_
+R: 261, rs->vel_L: 40rt->vel_L: 30	 rt->vel_R: 30vel change: 14rs->vel_R: 261, rs->vel_L: 40rt->vel_L: 30	 rt->vel_R: 30vel change: 14
+rs->vel_R: 263, rs->vel_L: 40rt->vel_L: 30	 rt->vel_R: 30vel change: 13rs->vel_R: 263, rs->vel_L: 40rt->vel_L: 30	 rt->vel_R: 30vel change: 13
+rs->vel_R: 265, rs->vel_L: 42rt->vel_L: 30	 rt->vel_R: 30vel change: 15rs->vel_R: 265, rs->vel_L: 42rt->vel_L: 30	 rt->
+vel_R: 30vel change: 15rs->vel_R: 268, rs->vel_L: 42rt->vel_L: 30	 rt->vel_R: 30vel change: 15rs->vel_R: 268, rs->vel_L: 
+42rt->vel_L: 30	 rt->vel_R: 30vel change: 15rs->vel_R: 270, rs->vel_L: 42rt->vel_L: 30	 rt->vel_R: 30vel change: 15
+rs->vel_R: 272, rs->vel_L: 42rt->vel_L: 30	 rt->vel_R: 30vel change: 15rs->vel_R: 272, rs->vel_L: 44rt->vel_L: 30	 rt->vel_R: 30vel change: 17
+rs->vel_R: 272, rs->vel_L: 44rt->vel_L: 30	 rt->vel_R: 30vel change: 17rs->vel_R: 274, rs->vel_L: 44rt->vel_L: 30	 rt->vel_R: 
+30vel change: 17rs->vel_R: 274, rs->vel_L: 44rt->vel_L: 30	 rt->vel_R: 30vel change: 17rs->vel_R: 
+277, rs->vel_L: 44rt->vel_L: 30	 rt->vel_R: 30vel change: 16rs->vel_R: 279, rs->vel_L: 46rt->vel_L: 30	 rt->vel_R: 30vel change: 18
+rs->vel_R: 279, rs->vel_L: 46rt->vel_L: 30	 rt->vel_R: 30vel change: 18rs->vel_R: 281, rs->vel_L: 46rt->vel_L: 30	 rt->vel_R: 30vel change: 18
+rs->vel_R: 281, rs->vel_L: 46rt->vel_L: 30	 rt->vel_R: 30vel change: 18rs->vel_R: 283, rs->vel_L: 49rt->vel_L: 30	 rt->vel_R: 30vel change: 20
+rs->vel_R: 283, rs->vel_L: 49rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 285, rs->vel_L: 49rt->vel_L: 30	 rt->vel_R: 
+30vel change: 20rs->vel_R: 285, rs->vel_L: 49rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 288, rs->vel_L: 51rt->v
+el_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 290, rs->vel_L: 51rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 290, rs->vel_L: 51rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 292, rs->vel_L: 51rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 292, rs->vel_L: 51rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 294, rs->vel_L: 53rt->vel_L: 30	 rt->vel_R: 
+30vel change: 24rs->vel_R: 294, rs->vel_L: 53rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 297, rs->vel_L: 53rt->v
+el_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 297, rs->vel_L: 53rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 
+299, rs->vel_L: 53rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 299, rs->vel_L: 55rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 301, rs->vel_L: 55rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 301, rs->vel_L: 55rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 303, rs->vel_L: 55rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 306, rs->vel_L: 55rt->vel_L: 30	 rt->vel_R: 
+30vel change: 25rs->vel_R: 306, rs->vel_L: 55rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 308, rs->vel_L: 58rt->v
+el_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 308, rs->vel_L: 58rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 
+310, rs->vel_L: 58rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 310, rs->vel_L: 58rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 312, rs->vel_L: 58rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 312, rs->vel_L: 58rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 314, rs->vel_L: 58rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 314, rs->vel_L: 58rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 317, rs->vel_L: 60rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 319, rs->vel_L: 60rt->vel_L: 30	 rt->vel_R: 
+30vel change: 28rs->vel_R: 319, rs->vel_L: 60rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 321, rs->vel_L: 60rt->v
+el_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 321, rs->vel_L: 60rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 
+323, rs->vel_L: 60rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 323, rs->vel_L: 60rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 326, rs->vel_L: 60rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 326, rs->vel_L: 60rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 27rs->vel_R: 328, rs->vel_L: 60rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 328, rs->vel_L: 60rt->vel_L: 
+30	 rt->vel_R: 30vel change: 27rs->vel_R: 330, rs->vel_L: 60rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 332, rs-
+>vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 29rs->vel_R: 332, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 29rs->vel_R: 
+335, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 29rs->vel_R: 335, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 29
+rs->vel_R: 337, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 337, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 28
+rs->vel_R: 339, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 339, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 28
+rs->vel_R: 341, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 344, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 
+30vel change: 28rs->vel_R: 344, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 346, rs->vel_L: 62rt->v
+el_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 346, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 348, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 348, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 350, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 352, rs->vel_L: 62rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 352, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 29rs->vel_R: 355, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 
+30vel change: 29rs->vel_R: 355, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 29rs->vel_R: 357, rs->vel_L: 64rt->v
+el_L: 30	 rt->vel_R: 30vel change: 29rs->vel_R: 357, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 29rs->vel_R: 
+359, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 361, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 28
+rs->vel_R: 361, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 364, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 28
+rs->vel_R: 364, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 366, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 
+30vel change: 28rs->vel_R: 368, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 368, rs->vel_L: 64rt->v
+el_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 370, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 
+373, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 373, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 375, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 375, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 377, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 377, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 379, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 379, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 
+30vel change: 26rs->vel_R: 382, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 384, rs->vel_L: 64rt->v
+el_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 384, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 
+386, rs->vel_L: 64rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 386, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 28
+rs->vel_R: 388, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 390, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 390, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 393, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 
+30vel change: 27rs->vel_R: 393, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 395, rs->vel_L: 67rt->v
+el_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 395, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 
+397, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 399, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 399, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 402, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 402, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 404, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 406, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 406, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 
+30vel change: 26rs->vel_R: 408, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 408, rs->vel_L: 67rt->v
+el_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 411, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 
+411, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 413, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 415, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 415, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 417, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 417, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 419, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 422, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 
+30vel change: 24rs->vel_R: 422, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 424, rs->vel_L: 67rt->v
+el_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 426, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 
+426, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 428, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 24
+rs->vel_R: 428, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 431, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 433, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 433, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 
+30vel change: 23rs->vel_R: 435, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 435, rs->vel_L: 67rt->v
+el_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 437, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 
+440, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 440, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 442, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 444, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 444, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 446, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 446, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 449, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 
+30vel change: 22rs->vel_R: 449, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 451, rs->vel_L: 67rt->v
+el_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 453, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 
+453, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 455, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 21
+rs->vel_R: 455, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 457, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 21
+rs->vel_R: 460, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 460, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 
+30vel change: 20rs->vel_R: 462, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 462, rs->vel_L: 67rt->v
+el_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 464, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 
+466, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 466, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 20
+rs->vel_R: 469, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 469, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 20
+rs->vel_R: 471, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 19rs->vel_R: 471, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 19
+rs->vel_R: 473, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 19rs->vel_R: 475, rs->vel_L: 67rt->vel_L: 30	 rt->
+vel_R: 30vel change: 19rs->vel_R: 475, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 19rs->vel_R: 478, rs->vel_L: 
+67rt->vel_L: 30	 rt->vel_R: 30vel change: 19rs->vel_R: 480, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 18rs->vel_R: 
+480, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 18rs->vel_R: 482, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 18
+rs->vel_R: 482, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 18rs->vel_R: 484, rs->vel_L: 67rt->vel_L: 30	 rt->vel_R: 30vel change: 18
+rs->vel_R: 484, rs->vel_L: 69rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 487, rs->vel_L: 69rt->v
+el_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 489, rs->vel_L: 69rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 489, rs->vel_L: 69rt->v
+el_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 491, rs->vel_L: 69rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 
+491, rs->vel_L: 69rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 493, rs->vel_L: 69rt->vel_L: 30	 rt->vel_R: 30vel change: 19
+rs->vel_R: 495, rs->vel_L: 71rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 495, rs->vel_L: 71rt->vel_L: 30	 rt->vel_R: 30vel change: 21
+rs->vel_R: 498, rs->vel_L: 71rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 498, rs->vel_L: 71rt->vel_L: 30	 rt->vel_R: 
+30vel change: 21rs->vel_R: 500, rs->vel_L: 71rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 502, rs->vel_L: 71rt->vel_L: 30	 rt->
+vel_R: 30vel change: 21rs->vel_R: 502, rs->vel_L: 71rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 504, rs->vel_L: 
+71rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 504, rs->vel_L: 71rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 
+507, rs->vel_L: 71rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 509, rs->vel_L: 71rt->vel_L: 30	 rt->vel_R: 30vel change: 20
+rs->vel_R: 509, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 511, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 511, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 513, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 516, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 516, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 
+22rs->vel_R: 518, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 518, rs->vel_L: 73rt->vel_L: 30	 rt->
+vel_R: 30vel change: 21rs->vel_R: 520, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 522, rs->vel_L: 
+73rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 522, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 21
+rs->vel_R: 524, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 524, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 21
+rs->vel_R: 527, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 527, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 
+20rs->vel_R: 529, rs->vel_L: 73rt->vel_L: 30	 rt->vel_R: 30vel change: 20rs->vel_R: 531, rs->vel_L: 75rt->vel_L: 30	 rt->vel_R: 30vel change: 
+22rs->vel_R: 531, rs->vel_L: 75rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 533, rs->vel_L: 
+75rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 533, rs->vel_L: 75rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 536, rs->vel_L: 75rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 538, rs->vel_L: 75rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 538, rs->vel_L: 75rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 540, rs->vel_L: 75rt->vel_L: 30	 rt->vel_R: 30vel change: 21
+rs->vel_R: 540, rs->vel_L: 75rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 542, rs->vel_L: 75rt->vel_L: 30	 rt->
+vel_R: 30vel change: 21rs->vel_R: 542, rs->vel_L: 75rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 545, rs->vel_L: 
+75rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 547, rs->vel_L: 75rt->vel_L: 30	 rt->vel_R: 30vel change: 21
+rs->vel_R: 547, rs->vel_L: 75rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 549, rs->vel_L: 78rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 551, rs->vel_L: 78rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 551, rs->vel_L: 78rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 554, rs->vel_L: 78rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 554, rs->vel_L: 78rt->vel_L: 30	 rt->
+vel_R: 30vel change: 22rs->vel_R: 556, rs->vel_L: 78rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 556, rs->vel_L: 
+78rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 558, rs->vel_L: 78rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 560, rs->vel_L: 80rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 560, rs->vel_L: 80rt->vel_L: 30	 rt->vel_R: 30vel change: 24
+rs->vel_R: 562, rs->vel_L: 80rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 562, rs->vel_L: 80rt->vel_L: 30	 rt->vel_R: 
+30vel change: 24rs->vel_R: 565, rs->vel_L: 80rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 567, rs->vel_L: 80rt->v
+el_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 567, rs->vel_L: 82rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 
+569, rs->vel_L: 82rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 569, rs->vel_L: 82rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 571, rs->vel_L: 82rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 574, rs->vel_L: 82rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 574, rs->vel_L: 82rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 576, rs->vel_L: 82rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 576, rs->vel_L: 82rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 578, rs->vel_L: 84rt->vel_L: 30	 rt->
+vel_R: 30vel change: 27rs->vel_R: 580, rs->vel_L: 84rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 580, rs->vel_L: 
+84rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 583, rs->vel_L: 84rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 583, rs->vel_L: 84rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 585, rs->vel_L: 84rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 587, rs->vel_L: 84rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 587, rs->vel_L: 84rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 589, rs->vel_L: 84rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 589, rs->vel_L: 84rt->vel_L: 30	 rt->vel_R: 
+30vel change: 25rs->vel_R: 592, rs->vel_L: 84rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 594, rs->vel_L: 
+84rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 594, rs->vel_L: 84rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 596, rs->vel_L: 87rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 596, rs->vel_L: 87rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 598, rs->vel_L: 87rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 600, rs->vel_L: 87rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 600, rs->vel_L: 87rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 603, rs->vel_L: 87rt->vel_L: 30	 rt->vel_R: 
+30vel change: 26rs->vel_R: 603, rs->vel_L: 87rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 605, rs->vel_L: 87rt->vel_L: 30	 rt->
+vel_R: 30vel change: 26rs->vel_R: 607, rs->vel_L: 87rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 607, rs->vel_L: 
+87rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 609, rs->vel_L: 87rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_
+R: 612, rs->vel_L: 87rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 612, rs->vel_L: 87rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 614, rs->vel_L: 87rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 614, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 616, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 616, rs->vel_L: 89rt->vel_L: 30	 rt->
+vel_R: 30vel change: 27rs->vel_R: 618, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 621, rs->vel_L: 
+89rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 621, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 
+623, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 623, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 625, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 627, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 627, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 629, rs->vel_L: 89rt->vel_L: 30	 rt->
+vel_R: 30vel change: 26rs->vel_R: 629, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 632, rs->vel_L: 89rt->vel_L: 30	 rt->
+vel_R: 30vel change: 26rs->vel_R: 634, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 634, rs->vel_L: 
+89rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 636, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 
+636, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 638, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 641, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 641, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 643, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 643, rs->vel_L: 89rt->vel_L: 30	 rt->
+vel_R: 30vel change: 25rs->vel_R: 645, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 
+647, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 647, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 24
+rs->vel_R: 650, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 650, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 24
+rs->vel_R: 652, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 654, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 
+30vel change: 23rs->vel_R: 654, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 656, rs->vel_L: 89rt->vel_L: 30	 rt->
+vel_R: 30vel change: 23rs->vel_R: 659, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 659, rs->vel_L: 89rt->vel_L: 30	 rt->
+vel_R: 30vel change: 23rs->vel_R: 661, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 
+661, rs->vel_L: 89rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 663, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 665, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 665, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 667, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 667, rs->vel_L: 91rt->vel_L: 30	 rt->
+vel_R: 30vel change: 24rs->vel_R: 670, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 672, rs->vel_L: 
+91rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 672, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 
+674, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 674, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 24
+rs->vel_R: 676, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 679, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 679, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 681, rs->vel_L: 91rt->vel_L: 30	 rt->
+vel_R: 30vel change: 23rs->vel_R: 681, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 683, rs->vel_L: 
+91rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 685, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 
+685, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 688, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 688, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 690, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 692, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 692, rs->vel_L: 91rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 694, rs->vel_L: 93rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 694, rs->vel_L: 93rt->vel_L: 30	 rt->
+vel_R: 30vel change: 24rs->vel_R: 697, rs->vel_L: 93rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 697, rs->vel_L: 93rt->vel_L: 30	 rt->
+vel_R: 30vel change: 24rs->vel_R: 699, rs->vel_L: 93rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 701, rs->vel_L: 
+93rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 701, rs->vel_L: 93rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 703, rs->vel_L: 93rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 703, rs->vel_L: 93rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 705, rs->vel_L: 93rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 708, rs->vel_L: 93rt->vel_L: 30	 rt->vel_R: 30vel change: 
+23rs->vel_R: 708, rs->vel_L: 93rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 710, rs->vel_L: 96rt->vel_L: 30	 rt->
+vel_R: 30vel change: 25rs->vel_R: 712, rs->vel_L: 96rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 712, rs->vel_L: 
+96rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 714, rs->vel_L: 96rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_
+R: 714, rs->vel_L: 96rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 717, rs->vel_L: 96rt->vel_L: 30	 rt->vel_R: 30vel change: 24
+rs->vel_R: 719, rs->vel_L: 96rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 719, rs->vel_L: 96rt->vel_L: 30	 rt->vel_R: 30vel change: 24
+rs->vel_R: 721, rs->vel_L: 98rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 721, rs->vel_L: 98rt->vel_L: 30	 rt->vel_R: 30vel change: 
+26rs->vel_R: 723, rs->vel_L: 98rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 726, rs->vel_L: 
+98rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 726, rs->vel_L: 98rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_
+R: 728, rs->vel_L: 98rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 728, rs->vel_L: 100rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_
+R: 730, rs->vel_L: 100rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 732, rs->vel_L: 100rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_
+R: 732, rs->vel_L: 100rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 734, rs->vel_L: 100rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 737, rs->vel_L: 100rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 737, rs->vel_L: 100rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 739, rs->vel_L: 100rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 739, rs->vel_L: 100rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 26rs->vel_R: 741, rs->vel_L: 100rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 741, rs->vel_L: 102rt->vel_L: 
+30	 rt->vel_R: 30vel change: 28rs->vel_R: 743, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 746, rs->vel_L: 
+102rt->vel_L: 30	 rt->vel_R: 30vel change: 28rs->vel_R: 746, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 28
+rs->vel_R: 748, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 748, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 750, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 752, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 27
+rs->vel_R: 752, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 755, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 27rs->vel_R: 755, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 27rs->vel_R: 757, rs->vel_L: 102rt->vel_L: 
+30	 rt->vel_R: 30vel change: 27rs->vel_R: 759, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 759, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 761, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 764, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 764, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 26
+rs->vel_R: 766, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 26rs->vel_R: 766, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 26rs->vel_R: 768, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 768, rs->vel_L: 102rt->vel_L: 
+30	 rt->vel_R: 30vel change: 25rs->vel_R: 770, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 772, rs->vel_L: 
+102rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 772, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 775, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 777, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 25
+rs->vel_R: 777, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 25rs->vel_R: 779, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 24rs->vel_R: 779, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 781, rs->vel_L: 102rt->vel_L: 
+30	 rt->vel_R: 30vel change: 24rs->vel_R: 784, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 784, rs->vel_L: 
+102rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 786, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 24
+rs->vel_R: 786, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 788, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 790, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 790, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 793, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 795, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 795, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 797, rs->vel_L: 102rt->vel_L: 
+30	 rt->vel_R: 30vel change: 23rs->vel_R: 797, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 799, rs->vel_L: 
+102rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 802, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 802, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 804, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 804, rs->vel_L: 102rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 806, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 24
+rs->vel_R: 808, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 808, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 24rs->vel_R: 810, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 810, rs->vel_L: 104rt->vel_L: 
+30	 rt->vel_R: 30vel change: 23rs->vel_R: 813, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 815, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 815, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 817, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 817, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 819, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 822, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 22rs->vel_R: 822, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 824, rs->vel_L: 104rt->vel_L: 
+30	 rt->vel_R: 30vel change: 22rs->vel_R: 824, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 826, rs-
+>vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 828, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 828, rs->vel_L: 104rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 831, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 24
+rs->vel_R: 831, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 24rs->vel_R: 833, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 23rs->vel_R: 835, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 835, rs->vel_L: 107rt->vel_L: 
+30	 rt->vel_R: 30vel change: 23rs->vel_R: 837, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 837, rs->vel_L: 
+107rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 839, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 839, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 842, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 23
+rs->vel_R: 844, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 844, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel c
+hange: 22rs->vel_R: 846, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 848, rs->vel_L: 107rt->vel_L: 
+30	 rt->vel_R: 30vel change: 22rs->vel_R: 848, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 851, rs->vel_L: 
+107rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 851, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 853, rs-
+>vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 855, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 21
+rs->vel_R: 855, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 857, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 21
+rs->vel_R: 857, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 21rs->vel_R: 860, rs->vel_L: 107rt->vel_L: 30	 rt->vel_R: 30vel change: 21
+rs->vel_R: 862, rs->vel_L: 109rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 862, rs->vel_L: 109rt->vel_L: 
+30	 rt->vel_R: 30vel change: 23rs->vel_R: 864, rs->vel_L: 109rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 864, rs-
+>vel_L: 109rt->vel_L: 30	 rt->vel_R: 30vel change: 23rs->vel_R: 866, rs->vel_L: 109rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 869, rs->vel_L: 109rt->vel_L: 30	 rt->vel_R: 30vel change: 22rs->vel_R: 869, rs->vel_L: 109rt->vel_L: 30	 rt->vel_R: 30vel change: 22
+rs->vel_R: 871, rs->vel_L: 109rt->vel_L: 28	 rt->vel_R: 28vel change: 22rs->vel_R: 871, rs->vel_L: 109rt->vel_L: 26	 rt->vel_R: 26vel c
+hange: 22rs->vel_R: 873, rs->vel_L: 109rt->vel_L: 25	 rt->vel_R: 25vel change: 22rs->vel_R: 873, rs->vel_L: 109rt->vel_L: 23	 rt->vel_R: 23vel c
+hange: 22rs->vel_R: 875, rs->vel_L: 109rt->vel_L: 22	 rt->vel_R: 22vel change: 21rs->vel_R: 877, rs-
+>vel_L: 109rt->vel_L: 20	 rt->vel_R: 20vel change: 21rs->vel_R: 877, rs->vel_L: 109rt->vel_L: 19	 rt->vel_R: 19vel change: 21
+rs->vel_R: 880, rs->vel_L: 109rt->vel_L: 17	 rt->vel_R: 17vel change: 21rs->vel_R: 880, rs->vel_L: 109rt->vel_L: 15	 rt->vel_R: 15vel change: 21
+rs->vel_R: 882, rs->vel_L: 109rt->vel_L: 14	 rt->vel_R: 14vel change: 21rs->vel_R: 884, rs->vel_L: 109rt->vel_L: 12	 rt->vel_R: 12vel c
+hange: 21rs->vel_R: 884, rs->vel_L: 109rt->vel_L: 11	 rt->vel_R: 11vel change: 21rs->vel_R: 886, rs->vel_L: 109rt->vel_L: 9	 rt->vel_R: 9vel chang
+e: 20rs->vel_R: 889, rs->vel_L: 109rt->vel_L: 8	 rt->vel_R: 8vel change: 20rs->vel_R: 889, rs->vel_L: 109rt->vel_L: 6
+	 rt->vel_R: 6vel change: 20rs->vel_R: 891, rs->vel_L: 109rt->vel_L: 5	 rt->vel_R: 5vel change: 20rs->vel_R: 891, rs-
+>vel_L: 109rt->vel_L: 3	 rt->vel_R: 3vel change: 20rs->vel_R: 893, rs->vel_L: 109rt->vel_L: 1	 rt->vel_R: 1vel change: 20
+rs->vel_R: 895, rs->vel_L: 109rt->vel_L: 0	 rt->vel_R: 0vel change: 19

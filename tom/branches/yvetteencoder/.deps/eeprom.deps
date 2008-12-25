@@ -1,0 +1,5 @@
+eeprom.o: eeprom.c /opt/mcc18/h/p18f8722.h eeprom.h
+
+/opt/mcc18/h/p18f8722.h:
+
+eeprom.h:

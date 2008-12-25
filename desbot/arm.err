@@ -1,0 +1,8 @@
+Warning[2058] Z:\home\prog\code\2008\desbot3\arm.c 18 : call of function without prototype
+Message[3002] Z:\home\prog\code\2008\desbot3\arm.c 22 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\2008\desbot3\arm.c 22 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\2008\desbot3\arm.c 32 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\2008\desbot3\arm.c 69 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\2008\desbot3\arm.c 81 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\2008\desbot3\arm.c 137 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\2008\desbot3\arm.c 150 : comparison of a signed integer to an unsigned integer detected

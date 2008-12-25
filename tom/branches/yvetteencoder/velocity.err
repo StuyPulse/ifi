@@ -1,0 +1,4 @@
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvetteencoder\velocity.c 26 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvetteencoder\velocity.c 29 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvetteencoder\velocity.c 35 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\branches\yvetteencoder\velocity.c 80 : comparison of a signed integer to an unsigned integer detected

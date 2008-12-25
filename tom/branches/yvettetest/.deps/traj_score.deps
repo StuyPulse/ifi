@@ -1,0 +1,19 @@
+traj_score.o: traj_score.c /opt/mcc18/h/string.h /opt/mcc18/h/stddef.h \
+  controller.h trajectory.h user_routines.h traj_null.h traj_straight.h \
+  traj_turn_radius.h
+
+/opt/mcc18/h/string.h:
+
+/opt/mcc18/h/stddef.h:
+
+controller.h:
+
+trajectory.h:
+
+user_routines.h:
+
+traj_null.h:
+
+traj_straight.h:
+
+traj_turn_radius.h:

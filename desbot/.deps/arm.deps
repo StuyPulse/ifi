@@ -1,0 +1,28 @@
+arm.o: arm.c /opt/mcc18/h/stdio.h /opt/mcc18/h/stdarg.h \
+  /opt/mcc18/h/stddef.h common_def.h user_routines.h arm.h ifi_aliases.h \
+  /opt/mcc18/h/adc.h ifi_default.h /opt/mcc18/h/p18cxxx.h \
+  /opt/mcc18/h/p18f8722.h controller.h
+
+/opt/mcc18/h/stdio.h:
+
+/opt/mcc18/h/stdarg.h:
+
+/opt/mcc18/h/stddef.h:
+
+common_def.h:
+
+user_routines.h:
+
+arm.h:
+
+ifi_aliases.h:
+
+/opt/mcc18/h/adc.h:
+
+ifi_default.h:
+
+/opt/mcc18/h/p18cxxx.h:
+
+/opt/mcc18/h/p18f8722.h:
+
+controller.h:

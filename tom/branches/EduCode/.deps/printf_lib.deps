@@ -1,0 +1,14 @@
+printf_lib.o: printf_lib.c ifi_default.h ifi_picdefs.h printf_lib.h \
+  ifi_utilities.h /opt/mcc18/h/string.h /opt/mcc18/h/stddef.h
+
+ifi_default.h:
+
+ifi_picdefs.h:
+
+printf_lib.h:
+
+ifi_utilities.h:
+
+/opt/mcc18/h/string.h:
+
+/opt/mcc18/h/stddef.h:

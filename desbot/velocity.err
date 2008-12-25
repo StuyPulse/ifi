@@ -1,0 +1,4 @@
+Warning[2066] Z:\home\prog\code\2008\desbot3\velocity.c 27 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\2008\desbot3\velocity.c 30 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\2008\desbot3\velocity.c 36 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\2008\desbot3\velocity.c 81 : comparison of a signed integer to an unsigned integer detected

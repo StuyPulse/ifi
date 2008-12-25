@@ -1,0 +1,26 @@
+Warning[2058] Z:\home\prog\code\2008\desbot3\user_routines.c 168 : call of function without prototype
+Message[3002] Z:\home\prog\code\2008\desbot3\user_routines.c 204 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\2008\desbot3\user_routines.c 212 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\2008\desbot3\user_routines.c 216 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\2008\desbot3\user_routines.c 220 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\2008\desbot3\user_routines.c 224 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\2008\desbot3\user_routines.c 227 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\2008\desbot3\user_routines.c 235 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\2008\desbot3\user_routines.c 235 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\2008\desbot3\user_routines.c 240 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\2008\desbot3\user_routines.c 241 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\2008\desbot3\user_routines.c 242 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\2008\desbot3\user_routines.c 251 : type qualifier mismatch in assignment
+Warning[2058] Z:\home\prog\code\2008\desbot3\user_routines.c 256 : call of function without prototype
+Warning[2058] Z:\home\prog\code\2008\desbot3\user_routines.c 257 : call of function without prototype
+Message[3002] Z:\home\prog\code\2008\desbot3\user_routines.c 260 : comparison of a signed integer to an unsigned integer detected
+Warning[2058] Z:\home\prog\code\2008\desbot3\user_routines.c 261 : call of function without prototype
+Warning[2066] Z:\home\prog\code\2008\desbot3\user_routines.c 345 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\2008\desbot3\user_routines.c 346 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\2008\desbot3\user_routines.c 353 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\2008\desbot3\user_routines.c 355 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\2008\desbot3\user_routines.c 360 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\2008\desbot3\user_routines.c 362 : comparison of a signed integer to an unsigned integer detected
+Warning[2058] Z:\home\prog\code\2008\desbot3\user_routines.c 408 : call of function without prototype
+Warning[2058] Z:\home\prog\code\2008\desbot3\user_routines.c 410 : call of function without prototype
+Warning[2058] Z:\home\prog\code\2008\desbot3\user_routines.c 412 : call of function without prototype

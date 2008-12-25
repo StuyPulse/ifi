@@ -1,0 +1,19 @@
+Added yvette test stuff
+--This line, and those below, will be ignored--
+
+A    yvetteencoder
+M    yvetteencoder/traj_straight.c
+A    yvetteencoder/traj_straight.h
+D    yvetteencoder/Makefile
+A    yvetteencoder/tracking.c
+A    yvetteencoder/traj_offensive.c
+A    yvetteencoder/tracking.h
+M    yvetteencoder/interrupts.c
+A    yvetteencoder/FrcCode.map
+A    yvetteencoder/user_routines_yvette.h
+A    yvetteencoder/traj_camera_turn.c
+M    yvetteencoder/trajectory.c
+A    yvetteencoder/user_routines_tom.h
+A    yvetteencoder/trajectory.h
+A    yvetteencoder/user_routines.c
+A    yvetteencoder/user_routines.h

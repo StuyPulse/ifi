@@ -1,0 +1,10 @@
+joymap.o: joymap.c ifi_aliases.h /opt/mcc18/h/adc.h user_routines.h \
+  joymap.h
+
+ifi_aliases.h:
+
+/opt/mcc18/h/adc.h:
+
+user_routines.h:
+
+joymap.h:

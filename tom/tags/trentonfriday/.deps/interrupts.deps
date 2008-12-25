@@ -1,0 +1,10 @@
+interrupts.o: interrupts.c /opt/mcc18/h/p18cxxx.h /opt/mcc18/h/p18f8722.h \
+  interrupts.h velocity.h
+
+/opt/mcc18/h/p18cxxx.h:
+
+/opt/mcc18/h/p18f8722.h:
+
+interrupts.h:
+
+velocity.h:

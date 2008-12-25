@@ -1,0 +1,29 @@
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 136 : call of function without prototype
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 159 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 179 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 181 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 183 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 186 : comparison of a signed integer to an unsigned integer detected
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 189 : call of function without prototype
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 192 : comparison of a signed integer to an unsigned integer detected
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 195 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 198 : call of function without prototype
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 200 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 207 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 209 : type qualifier mismatch in assignment
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 209 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 209 : call of function without prototype
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 213 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 214 : type qualifier mismatch in assignment
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 222 : call of function without prototype
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 243 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 258 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 296 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 435 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 441 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 447 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 453 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 630 : comparison of a signed integer to an unsigned integer detected
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 664 : call of function without prototype
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 724 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 757 : type qualifier mismatch in assignment

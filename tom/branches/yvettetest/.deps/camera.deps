@@ -1,0 +1,12 @@
+camera.o: camera.c /opt/mcc18/h/stdio.h /opt/mcc18/h/stdarg.h \
+  /opt/mcc18/h/stddef.h serial_ports.h camera.h
+
+/opt/mcc18/h/stdio.h:
+
+/opt/mcc18/h/stdarg.h:
+
+/opt/mcc18/h/stddef.h:
+
+serial_ports.h:
+
+camera.h:

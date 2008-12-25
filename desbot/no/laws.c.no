@@ -1,0 +1,18 @@
+#include "laws.h"
+
+void do_no_harm(){
+
+}
+void follow_orders(){
+
+}
+void protect_self(){
+
+}
+
+void follow_three_laws(){
+  //do_no_harm(); //made things too complicated
+  follow_orders();
+  protect_self();
+}
+

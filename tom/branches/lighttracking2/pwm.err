@@ -1,0 +1,16 @@
+Error[1105] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 111 : symbol 'PWM_13_GAIN' has not been defined
+Error[1105] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 111 : symbol 'PWM_13_CENTER' has not been defined
+Error[1105] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 112 : symbol 'PWM_14_GAIN' has not been defined
+Error[1105] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 112 : symbol 'PWM_14_CENTER' has not been defined
+Error[1105] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 113 : symbol 'PWM_15_GAIN' has not been defined
+Error[1105] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 113 : symbol 'PWM_15_CENTER' has not been defined
+Error[1105] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 114 : symbol 'PWM_16_GAIN' has not been defined
+Error[1105] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 114 : symbol 'PWM_16_CENTER' has not been defined
+Warning[2058] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 117 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 118 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 120 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 121 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 123 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 124 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 126 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\branches\lighttracking2\pwm.c 127 : call of function without prototype

@@ -1,0 +1,16 @@
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 137 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 148 : call of function without prototype
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 161 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 181 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 183 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 185 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 188 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 194 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 202 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 209 : comparison of a signed integer to an unsigned integer detected
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 213 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\trunk\user_routines.c 219 : call of function without prototype
+Warning[2066] Z:\home\prog\code\robo2007\trunk\user_routines.c 292 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 357 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 519 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\trunk\user_routines.c 600 : comparison of a signed integer to an unsigned integer detected

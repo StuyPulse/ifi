@@ -1,0 +1,9 @@
+FILES
+
+Our code
+--------
+controller.c/h - pid controller
+main.c - main loop
+schemes.c/h - robot configuration information (ie oi inputs,rc output list)
+guidance.c/h - overall robot controller -- set&decides what to do with states
+

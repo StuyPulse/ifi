@@ -1,0 +1,16 @@
+gyro.o: gyro.c adc.h gyro.h ifi_aliases.h /opt/mcc18/h/adc.h \
+  ifi_default.h /opt/mcc18/h/p18cxxx.h /opt/mcc18/h/p18f8722.h
+
+adc.h:
+
+gyro.h:
+
+ifi_aliases.h:
+
+/opt/mcc18/h/adc.h:
+
+ifi_default.h:
+
+/opt/mcc18/h/p18cxxx.h:
+
+/opt/mcc18/h/p18f8722.h:

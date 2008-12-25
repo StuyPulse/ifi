@@ -1,0 +1,12 @@
+#ifndef _TRAJ_CAMERA_H
+#define _TRAJ_CAMERA_H
+
+typedef struct {
+  float velocity;
+  int side;
+  int distance;
+} camera_params;
+
+void init_camera(void);
+
+#endif

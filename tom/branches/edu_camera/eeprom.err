@@ -1,0 +1,3 @@
+Message[3002] Z:\home\prog\code\robo2007\branches\edu_camera\eeprom.c 96 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\edu_camera\eeprom.c 158 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\edu_camera\eeprom.c 223 : comparison of a signed integer to an unsigned integer detected

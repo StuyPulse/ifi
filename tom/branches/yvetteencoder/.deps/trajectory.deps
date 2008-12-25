@@ -1,0 +1,7 @@
+trajectory.o: trajectory.c trajectory.h user_routines.h traj_straight.h
+
+trajectory.h:
+
+user_routines.h:
+
+traj_straight.h:

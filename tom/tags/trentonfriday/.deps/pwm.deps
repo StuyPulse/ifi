@@ -1,0 +1,10 @@
+pwm.o: pwm.c ifi_default.h /opt/mcc18/h/p18cxxx.h /opt/mcc18/h/p18f8722.h \
+  pwm.h
+
+ifi_default.h:
+
+/opt/mcc18/h/p18cxxx.h:
+
+/opt/mcc18/h/p18f8722.h:
+
+pwm.h:

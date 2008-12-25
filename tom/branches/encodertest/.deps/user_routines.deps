@@ -1,0 +1,17 @@
+user_routines.o: user_routines.c ifi_aliases.h /opt/mcc18/h/adc.h \
+  ifi_default.h ifi_picdefs.h ifi_utilities.h user_routines.h \
+  printf_lib.h
+
+ifi_aliases.h:
+
+/opt/mcc18/h/adc.h:
+
+ifi_default.h:
+
+ifi_picdefs.h:
+
+ifi_utilities.h:
+
+user_routines.h:
+
+printf_lib.h:

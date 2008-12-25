@@ -1,0 +1,17 @@
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 83 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 85 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 107 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 109 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 260 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 262 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 264 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 267 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 273 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 281 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 288 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 292 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 425 : comparison of a signed integer to an unsigned integer detected
+Warning[2055] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 587 : expression is always false
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 789 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 873 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\mantis_svn\oldcode\commented\user_routines.c 875 : comparison of a signed integer to an unsigned integer detected

@@ -1,0 +1,5 @@
+void do_no_harm(void);
+void follow_orders(void);
+void protect_self(void);
+
+void follow_three_laws(void);

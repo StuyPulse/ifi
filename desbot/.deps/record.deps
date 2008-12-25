@@ -1,0 +1,28 @@
+record.o: record.c /opt/mcc18/h/stdio.h /opt/mcc18/h/stdarg.h \
+  /opt/mcc18/h/stddef.h ifi_aliases.h /opt/mcc18/h/adc.h ifi_default.h \
+  /opt/mcc18/h/p18cxxx.h /opt/mcc18/h/p18f8722.h eeprom.h record.h \
+  common_def.h user_routines.h
+
+/opt/mcc18/h/stdio.h:
+
+/opt/mcc18/h/stdarg.h:
+
+/opt/mcc18/h/stddef.h:
+
+ifi_aliases.h:
+
+/opt/mcc18/h/adc.h:
+
+ifi_default.h:
+
+/opt/mcc18/h/p18cxxx.h:
+
+/opt/mcc18/h/p18f8722.h:
+
+eeprom.h:
+
+record.h:
+
+common_def.h:
+
+user_routines.h:

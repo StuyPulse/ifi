@@ -1,0 +1,35 @@
+ifi_utilities.o: ifi_utilities.c /opt/mcc18/h/usart.h /opt/mcc18/h/spi.h \
+  /opt/mcc18/h/adc.h /opt/mcc18/h/capture.h /opt/mcc18/h/timers.h \
+  /opt/mcc18/h/string.h /opt/mcc18/h/stddef.h /opt/mcc18/h/pwm.h delays.h \
+  ifi_aliases.h ifi_default.h /opt/mcc18/h/p18cxxx.h \
+  /opt/mcc18/h/p18f8722.h ifi_utilities.h user_routines.h
+
+/opt/mcc18/h/usart.h:
+
+/opt/mcc18/h/spi.h:
+
+/opt/mcc18/h/adc.h:
+
+/opt/mcc18/h/capture.h:
+
+/opt/mcc18/h/timers.h:
+
+/opt/mcc18/h/string.h:
+
+/opt/mcc18/h/stddef.h:
+
+/opt/mcc18/h/pwm.h:
+
+delays.h:
+
+ifi_aliases.h:
+
+ifi_default.h:
+
+/opt/mcc18/h/p18cxxx.h:
+
+/opt/mcc18/h/p18f8722.h:
+
+ifi_utilities.h:
+
+user_routines.h:

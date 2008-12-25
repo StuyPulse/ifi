@@ -1,0 +1,14 @@
+adc.o: adc.c adc.h ifi_aliases.h /opt/mcc18/h/adc.h ifi_default.h \
+  /opt/mcc18/h/p18cxxx.h /opt/mcc18/h/p18f8520.h
+
+adc.h:
+
+ifi_aliases.h:
+
+/opt/mcc18/h/adc.h:
+
+ifi_default.h:
+
+/opt/mcc18/h/p18cxxx.h:
+
+/opt/mcc18/h/p18f8520.h:

@@ -1,0 +1,14 @@
+main.o: main.c ifi_aliases.h /opt/mcc18/h/adc.h ifi_default.h \
+  ifi_picdefs.h ifi_utilities.h user_routines.h
+
+ifi_aliases.h:
+
+/opt/mcc18/h/adc.h:
+
+ifi_default.h:
+
+ifi_picdefs.h:
+
+ifi_utilities.h:
+
+user_routines.h:

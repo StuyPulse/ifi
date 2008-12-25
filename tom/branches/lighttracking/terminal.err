@@ -1,0 +1,12 @@
+Message[3002] Z:\home\prog\code\robo2007\branches\frc_camera_s_21\terminal.c 69 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\frc_camera_s_21\terminal.c 75 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\branches\frc_camera_s_21\terminal.c 77 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\frc_camera_s_21\terminal.c 81 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\frc_camera_s_21\terminal.c 84 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\frc_camera_s_21\terminal.c 87 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\frc_camera_s_21\terminal.c 89 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\frc_camera_s_21\terminal.c 90 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\frc_camera_s_21\terminal.c 91 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\frc_camera_s_21\terminal.c 92 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\branches\frc_camera_s_21\terminal.c 102 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\branches\frc_camera_s_21\terminal.c 107 : type qualifier mismatch in assignment

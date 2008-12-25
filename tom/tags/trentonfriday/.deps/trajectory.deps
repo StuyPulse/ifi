@@ -1,0 +1,12 @@
+trajectory.o: trajectory.c trajectory.h user_routines.h traj_null.h \
+  traj_straight.h traj_turn_radius.h
+
+trajectory.h:
+
+user_routines.h:
+
+traj_null.h:
+
+traj_straight.h:
+
+traj_turn_radius.h:

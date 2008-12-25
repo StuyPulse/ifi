@@ -1,0 +1,12 @@
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvetteencoder\user_routines.c 162 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\branches\yvetteencoder\user_routines.c 182 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\yvetteencoder\user_routines.c 184 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvetteencoder\user_routines.c 186 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\branches\yvetteencoder\user_routines.c 189 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\yvetteencoder\user_routines.c 195 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvetteencoder\user_routines.c 203 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\branches\yvetteencoder\user_routines.c 210 : comparison of a signed integer to an unsigned integer detected
+Warning[2052] Z:\home\prog\code\robo2007\branches\yvetteencoder\user_routines.c 440 : unexpected return value
+Message[3002] Z:\home\prog\code\robo2007\branches\yvetteencoder\user_routines.c 491 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\yvetteencoder\user_routines.c 492 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\yvetteencoder\user_routines.c 596 : comparison of a signed integer to an unsigned integer detected

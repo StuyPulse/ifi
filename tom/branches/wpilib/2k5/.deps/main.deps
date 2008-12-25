@@ -1,0 +1,12 @@
+main.o: main.c BuiltIns.h API.h /opt/mcc18/h/stdio.h \
+  /opt/mcc18/h/stdarg.h /opt/mcc18/h/stddef.h
+
+BuiltIns.h:
+
+API.h:
+
+/opt/mcc18/h/stdio.h:
+
+/opt/mcc18/h/stdarg.h:
+
+/opt/mcc18/h/stddef.h:

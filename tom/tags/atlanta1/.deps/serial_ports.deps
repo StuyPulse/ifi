@@ -1,0 +1,13 @@
+serial_ports.o: serial_ports.c /opt/mcc18/h/p18f8722.h \
+  /opt/mcc18/h/stdio.h /opt/mcc18/h/stdarg.h /opt/mcc18/h/stddef.h \
+  serial_ports.h
+
+/opt/mcc18/h/p18f8722.h:
+
+/opt/mcc18/h/stdio.h:
+
+/opt/mcc18/h/stdarg.h:
+
+/opt/mcc18/h/stddef.h:
+
+serial_ports.h:

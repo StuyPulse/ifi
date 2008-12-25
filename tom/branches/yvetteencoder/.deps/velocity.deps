@@ -1,0 +1,12 @@
+velocity.o: velocity.c /opt/mcc18/h/stdio.h /opt/mcc18/h/stdarg.h \
+  /opt/mcc18/h/stddef.h velocity.h common_def.h
+
+/opt/mcc18/h/stdio.h:
+
+/opt/mcc18/h/stdarg.h:
+
+/opt/mcc18/h/stddef.h:
+
+velocity.h:
+
+common_def.h:

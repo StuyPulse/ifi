@@ -1,0 +1,32 @@
+ir.o: ir.c /opt/mcc18/h/stdio.h /opt/mcc18/h/stdarg.h \
+  /opt/mcc18/h/stddef.h ir.h controller.h user_routines.h ifi_aliases.h \
+  /opt/mcc18/h/adc.h ifi_default.h /opt/mcc18/h/p18cxxx.h \
+  /opt/mcc18/h/p18f8722.h gyro.h common_def.h arm.h
+
+/opt/mcc18/h/stdio.h:
+
+/opt/mcc18/h/stdarg.h:
+
+/opt/mcc18/h/stddef.h:
+
+ir.h:
+
+controller.h:
+
+user_routines.h:
+
+ifi_aliases.h:
+
+/opt/mcc18/h/adc.h:
+
+ifi_default.h:
+
+/opt/mcc18/h/p18cxxx.h:
+
+/opt/mcc18/h/p18f8722.h:
+
+gyro.h:
+
+common_def.h:
+
+arm.h:

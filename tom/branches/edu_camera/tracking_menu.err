@@ -1,0 +1,58 @@
+Message[3002] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 151 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 153 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 211 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 215 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 222 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 228 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 233 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 280 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 362 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 363 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 364 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 411 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 422 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 424 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 451 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 452 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 453 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 454 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 455 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 456 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 457 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 458 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 459 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 460 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 461 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 462 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 463 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 464 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 465 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 466 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 467 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 468 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 469 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 470 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 471 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 472 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 473 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 474 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 475 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 495 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 496 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 497 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 498 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 499 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 500 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 501 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 502 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 503 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 504 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 505 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 506 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 507 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 508 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 509 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 510 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 511 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 512 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\edu_camera\tracking_menu.c 513 : type qualifier mismatch in assignment

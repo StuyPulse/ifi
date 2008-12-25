@@ -1,0 +1,22 @@
+#define DONE 1
+#define RUNNING 0
+
+static int ang0;
+
+int init_turn(){
+  ang0 = Get_Gyro_Angle();
+}
+
+int do_turn(int d_ang, char speed, int gain){
+  int ang = Get_Gyro_Angle();
+  if((d_ang > 0 && ang > ang0 + ang) || (d_ang < 0 && ang < ang0 + ang))
+    return DONE;
+
+  goto_ang = ang + gain;
+  c = (char)controller(&pid, ang, goto_ang);
+
+  pwm01 = pwm03 = 127 - speed - c;
+  pwm02 = pwm04 = 127 + speed - c;
+
+  return RUNNING;
+}

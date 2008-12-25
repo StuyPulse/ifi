@@ -1,0 +1,1431 @@
+No camera data...
+
+No camera data...
+
+No camera data...
+
+No camera data...
+
+No camera data...
+
+No camera data...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+Searching...
+
+
+ Pan Angle (degrees) = 2
+
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixel
+s)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blo
+b Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Err
+or (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Err
+or (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degre
+es) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixel
+s)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degr
+ees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  
+= 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pix
+els)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels) 
+ = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Ang
+le (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -1
+19
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan An
+gle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confi
+dence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixe
+ls)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 
+65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt
+ Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixel
+s)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -11
+9
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degr
+ees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pi
+xels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan An
+gle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Erro
+r (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 
+67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixe
+ls)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Er
+ror (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Conf
+idence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Ang
+le (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 
+67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixe
+ls)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Er
+ror (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan An
+gle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixe
+ls)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Er
+ror (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -7
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degr
+ees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 1
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pi
+xels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 1
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 1
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 1
+
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 2
+Tilt Angle (degrees) = -8
+ Pan Error (Pixel
+s)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 1
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 1
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+
+
+ Pan Angle (degrees) = 1
+Tilt Angle (degrees) = -8
+ Pan Error (Pixels)  = -79
+Tilt Error (Pixels)  = -119
+ Blob Size (Pixels)  = 65
+Confidence (Pixels)  = 67
+

@@ -1,0 +1,194 @@
+#include <stdio.h>
+#include "ir.h"
+#include "controller.h"
+#include "user_routines.h"
+#include "ifi_aliases.h"
+#include "ifi_default.h"
+#include "gyro.h"
+#include "common_def.h"
+
+int ir;
+static struct pidstate pid_str, pid_turn;
+
+int check_ir(){
+  static int count = 0;
+  static int res = 0;
+  printf("count %d ir ins: %d %d %d %d\n", count, IR1, IR2, IR3, IR4);
+
+  if(!(IR1 || IR2 || IR3 || IR4)) //no buttons pressed?
+    if(count < 6)
+      count++;
+    else //been too many loops since got a high input
+       res = 0;
+  else{ //button pressed!
+    count = 0;
+    //assume only one button pressed at a time
+    res = IR1 + IR2 * 2 + IR3 * 3 + IR4 * 4;
+  }
+  return res;
+}
+
+void init_ir_pids(){
+  init_controller(&pid_str,  1, 12, 1, 250, 1, 2, 50, -50);
+  init_controller(&pid_turn, 1, 5,  0, 1,   2, 5, 50, -50);
+}
+
+//set the mode of operation for the remote
+//0: go straight, angle left, or angle right
+//1: do left and right shifts
+//2: drive forward/back/left/right
+#define IR_MODE 0
+
+void IR_Drive(){
+#if IR_MODE==0
+  int ang = Get_Gyro_Angle();
+  char c = 0;
+  static int ang0;
+  static char state = -1;
+  static int lastir = -1;
+
+  if(state == -1){
+    init_controller(&pid_str,  1, 20, 1, 2500, 3, 5, 50, -50);
+    init_controller(&pid_turn, 1, 25, 0,    1, 2, 5, 50, -50);
+    ang0 = ang;
+    state = 0;
+  }
+
+  if(ir == 1) //up to reset heading
+    ang0 = ang;
+  if(ir == 3) //left
+    c = (char)controller(&pid_turn, ang, ang0 + 400);
+  if(ir == 4) //right
+    c = (char)controller(&pid_turn, ang, ang0 - 400);
+  if(ir == 0) //nothing; go straight
+    c = (char)controller(&pid_str, ang, ang0);
+
+  R_DRIVE1 = R_DRIVE2 = 127 - 30 - c;
+  L_DRIVE1 = L_DRIVE2 = 127 + 30 - c;
+
+  printf("ang %d ang0 %d ir %d c %d\n", ang, ang0, ir, c);
+
+#ifndef USE_NEW_OI
+  if(p1_y < 135){ //all switches are to left? joystick drive //only applies on Tom's OI
+    L_DRIVE1 = L_DRIVE2 = p4_y;
+    R_DRIVE1 = R_DRIVE2 = 255 - p3_y;
+  }
+#endif
+
+#endif
+#if IR_MODE==1
+  int ang = Get_Gyro_Angle();
+  char c;
+  static int ang0;
+  static char state = 0;
+  static struct pidstate pid_str, pid_turn;
+  static int lastir = -1;
+
+  /*
+    state:
+    0 do nothing
+    1 start left shift
+    2 do left shift part 1
+    3 do left shift part 2
+    4 start right shift
+    5 do right shift part 1
+    6 do right shift part 2
+    7 go straight
+  */
+ 
+  if(ir == 1 && lastir != 1) //up: stop/go
+    //state = 7*(state == 0); //too hard to read?
+    if(state)
+      state = 0;
+    else{
+      state = 7;
+      ang0 = ang;
+    }
+  if(ir == 3 && lastir != 3) //left
+    state = 1;
+  if(ir == 4 && lastir != 4) //right
+    state = 4;
+
+  printf("ir %d lastir %d state %d\n", ir, lastir, state);
+
+#ifndef USE_NEW_OI
+  if(p1_y < 135){ //all switches are to left? joystick drive
+    L_DRIVE1 = L_DRIVE2 = p4_y;
+    R_DRIVE1 = R_DRIVE2 = 255 - p3_y;
+    return;
+  }
+#endif
+
+#define TURNAMT 250
+
+  switch(state){
+  case 0:
+    L_DRIVE1 = L_DRIVE2 = R_DRIVE1 = R_DRIVE2 = 127;
+    break;
+  case 1:
+    state = 2;
+  case 2:
+    c = (char)controller(&pid_turn, ang, ang + TURNAMT);
+    R_DRIVE1 = R_DRIVE2 = 127 - 30 - c;
+    L_DRIVE1 = L_DRIVE2 = 127 + 30 - c;
+    if(ang >= ang0 + TURNAMT)
+      state = 3;
+    break;
+  case 3:
+    c = (char)controller(&pid_turn, ang, ang - TURNAMT);
+    R_DRIVE1 = R_DRIVE2 = 127 - 30 - c;
+    L_DRIVE1 = L_DRIVE2 = 127 + 30 - c;
+    if(ang <= ang0)
+      state = 7;
+    break;
+
+  case 4:
+    state = 5;
+  case 5:
+    c = (char)controller(&pid_turn, ang, ang - TURNAMT);
+    R_DRIVE1 = R_DRIVE2 = 127 - 30 - c;
+    L_DRIVE1 = L_DRIVE2 = 127 + 30 - c;
+    if(ang <= ang0 - TURNAMT)
+      state = 6;
+    break;
+  case 6:
+    c = (char)controller(&pid_turn, ang, ang + TURNAMT);
+    R_DRIVE1 = R_DRIVE2 = 127 - 30 - c;
+    L_DRIVE1 = L_DRIVE2 = 127 + 30 - c;
+    if(ang >= ang0)
+      state = 7;
+    break;
+  case 7:
+    c = (char)controller(&pid_str, ang, ang0);
+    R_DRIVE1 = R_DRIVE2 = 127 - 30 - c;
+    L_DRIVE1 = L_DRIVE2 = 127 + 30 - c;
+    break;
+  }
+
+  lastir = ir;
+#endif
+#if IR_MODE==2
+  //remote does forward, back, left, right
+  pwm01 = pwm02 = pwm03 = pwm04 = 127;
+
+  switch(ir){
+  case 0:
+    pwm01 = pwm02 = pwm03 = pwm04 = 127;
+    break;
+  case 1: //forward
+    pwm01 = pwm03 = 127 - 30;
+    pwm02 = pwm04 = 127 + 30;
+    break;
+  case 2: //backward
+    pwm01 = pwm03 = 127 + 30;
+    pwm02 = pwm04 = 127 - 30;
+    break;
+  case 3: //left
+    pwm01 = pwm02 = pwm03 = pwm04 = 127 - 30;
+    break;
+  case 4:
+    pwm01 = pwm02 = pwm03 = pwm04 = 127 + 30;
+    break;
+  }
+#endif
+}

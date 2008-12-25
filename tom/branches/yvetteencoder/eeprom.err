@@ -1,0 +1,5 @@
+Message[3002] Z:\home\prog\code\robo2007\branches\yvetteencoder\eeprom.c 96 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\yvetteencoder\eeprom.c 158 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\robo2007\branches\yvetteencoder\eeprom.c 223 : comparison of a signed integer to an unsigned integer detected
+Warning[2058] Z:\home\prog\code\robo2007\branches\yvetteencoder\eeprom.c 261 : call of function without prototype
+Warning[2058] Z:\home\prog\code\robo2007\branches\yvetteencoder\eeprom.c 278 : call of function without prototype

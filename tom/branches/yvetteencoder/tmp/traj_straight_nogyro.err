@@ -1,0 +1,2 @@
+Warning[2058] Z:\home\prog\code\robo2007\trunk\traj_straight_nogyro.c 100 : call of function without prototype
+Message[3000] Z:\home\prog\code\robo2007\trunk\traj_straight_nogyro.c 110 : test of floating point for equality detected

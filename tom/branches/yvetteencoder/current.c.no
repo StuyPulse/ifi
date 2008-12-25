@@ -1,0 +1,20 @@
+  /* This all should maybe go into a function */
+  static int controlling=0;
+  static struct pidstate left,right;
+  if(p2_sw_trig) //replace this with a #define when I'm feeling less lazy
+    {
+      if(controlling==0)
+	{
+	  init_controller_divisor(&left,1,10,0,0,127,-127);
+	  init_controller_divisor(&right,1,10,0,0,127,-127);
+	  controlling=1;
+	}
+      ro->motor_L = controller(&left,LEFT_IDEAL_CURRENT,rs->left_front_I+rs->left_back_I);
+      ro->motor_R = controller(&left,RIGHT_IDEAL_CURRENT,rs->right_front_I+rs->right_back_I);
+    }
+  else
+    {
+      controlling=0;
+      ro->motor_L = LEFT_Y;
+      ro->motor_R = RIGHT_Y;
+    }

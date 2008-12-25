@@ -1,0 +1,5 @@
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvetteencoder\traj_straight.c 95 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvetteencoder\traj_straight.c 97 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvetteencoder\traj_straight.c 99 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\robo2007\branches\yvetteencoder\traj_straight.c 106 : type qualifier mismatch in assignment
+Message[3000] Z:\home\prog\code\robo2007\branches\yvetteencoder\traj_straight.c 110 : test of floating point for equality detected
