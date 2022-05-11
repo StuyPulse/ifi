@@ -1,0 +1,14 @@
+Message[3002] Z:\home\prog\code\joshua\user_routines.c 78 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\user_routines.c 80 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\user_routines.c 100 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\user_routines.c 102 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\user_routines.c 271 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\joshua\user_routines.c 273 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\joshua\user_routines.c 276 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\user_routines.c 282 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\joshua\user_routines.c 290 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\joshua\user_routines.c 295 : comparison of a signed integer to an unsigned integer detected
+Warning[2055] Z:\home\prog\code\joshua\user_routines.c 529 : expression is always false
+Message[3002] Z:\home\prog\code\joshua\user_routines.c 725 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\user_routines.c 807 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\joshua\user_routines.c 809 : comparison of a signed integer to an unsigned integer detected

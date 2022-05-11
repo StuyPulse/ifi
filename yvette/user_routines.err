@@ -1,0 +1,20 @@
+Message[3002] Z:\home\prog\code\yvette\user_routines.c 78 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\yvette\user_routines.c 80 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\yvette\user_routines.c 100 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\yvette\user_routines.c 102 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\yvette\user_routines.c 266 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\yvette\user_routines.c 268 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\yvette\user_routines.c 271 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\yvette\user_routines.c 277 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\yvette\user_routines.c 285 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\yvette\user_routines.c 308 : comparison of a signed integer to an unsigned integer detected
+Error[1105] Z:\home\prog\code\yvette\user_routines.c 310 : symbol 'GORDON_OVERRIDE' has not been defined
+Error[1105] Z:\home\prog\code\yvette\user_routines.c 366 : symbol 'REVERSE_INPUT' has not been defined
+Error[1105] Z:\home\prog\code\yvette\user_routines.c 368 : symbol 'tmp' has not been defined
+Error[1101] Z:\home\prog\code\yvette\user_routines.c 368 : lvalue required
+Error[1105] Z:\home\prog\code\yvette\user_routines.c 370 : symbol 'tmp' has not been defined
+Error[1105] Z:\home\prog\code\yvette\user_routines.c 425 : symbol 'T_NULL' has not been defined
+Error[1105] Z:\home\prog\code\yvette\user_routines.c 437 : symbol 'T_NULL' has not been defined
+Message[3002] Z:\home\prog\code\yvette\user_routines.c 475 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\yvette\user_routines.c 545 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\yvette\user_routines.c 547 : comparison of a signed integer to an unsigned integer detected

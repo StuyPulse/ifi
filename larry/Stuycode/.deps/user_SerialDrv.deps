@@ -1,0 +1,19 @@
+user_SerialDrv.o: user_SerialDrv.c /opt/mcc18/h/string.h \
+  /opt/mcc18/h/stddef.h /opt/mcc18/h/usart.h user_SerialDrv.h \
+  ifi_default.h /opt/mcc18/h/p18cxxx.h /opt/mcc18/h/p18f8520.h delays.h
+
+/opt/mcc18/h/string.h:
+
+/opt/mcc18/h/stddef.h:
+
+/opt/mcc18/h/usart.h:
+
+user_SerialDrv.h:
+
+ifi_default.h:
+
+/opt/mcc18/h/p18cxxx.h:
+
+/opt/mcc18/h/p18f8520.h:
+
+delays.h:

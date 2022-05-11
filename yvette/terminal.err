@@ -1,0 +1,10 @@
+Message[3002] Z:\home\prog\code\comp.3f\terminal.c 63 : comparison of a signed integer to an unsigned integer detected
+Message[3002] Z:\home\prog\code\comp.3f\terminal.c 69 : comparison of a signed integer to an unsigned integer detected
+Warning[2066] Z:\home\prog\code\comp.3f\terminal.c 71 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\comp.3f\terminal.c 75 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\comp.3f\terminal.c 78 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\comp.3f\terminal.c 81 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\comp.3f\terminal.c 83 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\comp.3f\terminal.c 84 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\comp.3f\terminal.c 85 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\comp.3f\terminal.c 86 : type qualifier mismatch in assignment

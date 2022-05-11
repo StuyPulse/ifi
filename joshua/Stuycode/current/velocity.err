@@ -1,0 +1,5 @@
+Warning[2066] Z:\home\prog\code\joshua\velocity.c 48 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\joshua\velocity.c 51 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\joshua\velocity.c 54 : type qualifier mismatch in assignment
+Warning[2066] Z:\home\prog\code\joshua\velocity.c 57 : type qualifier mismatch in assignment
+Message[3002] Z:\home\prog\code\joshua\velocity.c 120 : comparison of a signed integer to an unsigned integer detected
